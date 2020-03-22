@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Маки ролл с огурцом",
+        "composition": "рис, огурец",
+        "weight": "110гр",
+        "price": 45,
+        "img_url": "static/images/roll_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Маки ролл с авокадо",
+        "composition": "рис, авокадо",
+        "weight": "110гр",
+        "price": 47,
+        "img_url": "static/images/roll_2.jpg" 
+    },
+    {
+        "id": 3,
+        "name": "Маки ролл с лососем",
+        "composition": "рис, лосось",
+        "weight": "110гр",
+        "price": 65,
+        "img_url": "static/images/roll_3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ролл Маки Тай",
+        "composition": "рис, окунь, унаги",
+        "weight": "110гр",
+        "price": 77,
+        "img_url": "static/images/roll_4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Маки ролл с креветкой",
+        "composition": "рис, креветка тигровая",
+        "weight": "110гр",
+        "price": 67,
+        "img_url": "static/images/roll_5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Маки ролл с угрем",
+        "composition": "рис, угорь, соус Унаги, кунжут",
+        "weight": "110гр",
+        "price": 67,
+        "img_url": "static/images/roll_6.jpg" 
+    },
+    {
+        "id": 7,
+        "name": "Ролл Маки Тай острый",
+        "composition": "рис, окунь Унаги, острый соус, огурец, авокадо",
+        "weight": "190гр",
+        "price": 85,
+        "img_url": "static/images/roll_7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Белоснежный дракон",
+        "composition": "рис, угорь, окунь, огурец, икра, мойонез японский, унаги",
+        "weight": "220гр",
+        "price": 135,
+        "img_url": "static/images/roll_8.jpg" 
+    }
+]
